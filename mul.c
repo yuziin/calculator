@@ -4,3 +4,5 @@ int mul(int a, int b)
 {
     return a*b;
 }
+
+//hi yuzin remake
